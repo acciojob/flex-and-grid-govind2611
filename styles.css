@@ -3,7 +3,7 @@ display:grid;
 	
 }
 .card{
-	
+	border-color: 10px solid #ccc;
 	background-color:#fafafa;
 	
 }
